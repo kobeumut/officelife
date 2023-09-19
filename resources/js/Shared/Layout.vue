@@ -224,10 +224,8 @@ nav {
       <ul class="list ma0">
         <li class="di mr2">
           <span class="mr1">🎡</span>
-          Welcome to OfficeLife beta!
+          GriOffice
         </li>
-        <li class="di mr2"><a href="https://docs.officelife.io" class="mr2">Read our documentation</a></li>
-        <li class="di">Thanks for using our tool!</li>
       </ul>
     </div>
   </div>
